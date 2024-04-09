@@ -1,0 +1,7 @@
+ipykernel
+openai
+nest_asyncio
+pydantic
+huggingface_hub
+pandas
+datamodel-code-generator
